@@ -71,7 +71,7 @@ with st.form(key="my_form"):
             st.write("Please enter some keywords to generate a story.")
 
 st.markdown("---")
-st.markdown("Created with ❤️ using OpenAI and Streamlit")
+st.markdown("Created with June using OpenAI and Streamlit")
 
 # Styling with CSS
 st.markdown("""
